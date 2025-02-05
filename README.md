@@ -31,7 +31,7 @@ Feel free to do whatever you want with the files. If you have any questions just
 
 <h1>Bill of Materials</h1>
 <ul>
-  <li>One of each <a href="https://github.com/ElKinoflop/TKLed/tree/main/case%20files" target="_blank">case layer</a> cut from 3mm acrylic. You need two of the feet (unless you want a lower angle)</li>
+  <li>One of each <a href="https://github.com/ElKinoflop/TKLed/tree/main/case%20files" target="_blank">case layer</a> cut from 3mm acrylic. You need two of the feet (unless you want a lower angle)and 'TKLed 5-6 - Mid Upper and Mid.dxf'</li>
   <li>Plate DXF file cut from 1.5mm metal/carbon. Flexier/plastic plates aren't recommened as without a PCB you can bottom out the switches on the case and risk the switches popping out of the plate</li>
   <li><a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a></li>
   <li>Sockets and pins to socket the controller</li>
