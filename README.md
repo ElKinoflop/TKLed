@@ -1,16 +1,13 @@
 # TKLed - Untested
 Stacked acrylic handwired 12.75u 40% keyboard with a push button and LED grid.
 
-<img src="https://github.com/ElKinoflop/TKLed/blob/main/images/TKLed%20Render%20(1).png" alt="TKLed Render">
+<img src="https://github.com/ElKinoflop/TKLed/blob/main/images/TKLed_v2_2025-Feb-05_11-35-57PM-000_CustomizedView7111979642.png" alt="TKLed Render">
 
 Feel free to do whatever you want with the files. If you have any questions just ask (Discord username elkinoflop) and if you make one then share a photo with me!
 
 <h1>Inspiration</h1>
 <ul>
-  <li>Prkns' <a href="https://geekhack.org/index.php?topic=105358.0">Whimsy</a></li>
-  <li>Aidan-OS' <a href="https://github.com/Aidan-OS/Mochi40" target="_blank">Mochi</a></li>
-  <li>Footfingers' <a href="https://geekhack.org/index.php?topic=115295.0" target="_blank">Syrup</a></li>
-  <li>Trashman's <a href="https://trashman.wiki/keyboards/minivan">Minivan</a></li>
+  <li>snurrebassen's <a href="https://geekhack.org/index.php?topic=101525.0">Arrow40</a></li>
   <li><a href="https://p3dstore.notion.site/P3Dstore-Open-Source-Project-List-6e85900337294e769fb7b8fa68d68f27">Jake/P3D's acrylic cases</a></li>
   <li><a href="https://smkeyboards.com/">SM Keyboards' acrylic cases</a></li>
 </ul>
@@ -61,5 +58,3 @@ The controller, FeatherWing Proto and NeoPixel FeatherWing need assembling as pi
 
 <h1>Disclaimer</h1>
 Currently untested. You are ordering at your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
-
-<img src="https://github.com/ElKinoflop/TKLed/blob/main/images/TKLed%20Render%20(2).png" alt="TKLed Render">
